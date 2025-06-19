@@ -182,17 +182,6 @@
 
 </div>
 
----
-
-## 🎵 **En ce moment...**
-
-<div align="center">
-
-[![Spotify](https://github-readme-stats.vercel.app/api/pin/?username=kittinan&repo=spotify-github-profile&theme=react&hide_border=true&bg_color=0D1117)](https://open.spotify.com/user/your-username)
-
-</div>
-
----
 
 <div align="center">
 
