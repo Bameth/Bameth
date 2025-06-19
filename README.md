@@ -48,8 +48,6 @@
 
 ⚡ **Passion** : Open Source, Clean Code, Innovation Technologique
 
-
-    
   </table>
 </div>
 
@@ -80,7 +78,9 @@
 
 ### ☁️ **Cloud & Outils de Développement**
 <div style="padding: 20px;">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,netlify,vercel&theme=dark" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,netlify,vercel,idea,virtualbox&theme=dark" height="50"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/StarUML-FF6B6B?style=for-the-badge&logo=staruml&logoColor=white" height="30"/>
 </div>
 
 </div>
