@@ -1,206 +1,236 @@
-# <div align="center">⚡ **`AMETH_BA.dev`** ⚡</div>
+# <div align="center">✨ Salut, je suis **Ameth BA** ✨</div>
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=`>>+Full-Stack+Developer+💻`;`>>+Software+Engineer+🚀`;`>>+Based+in+Dakar,+Senegal+🌍`;`>>+Ready+for+new+challenges+🔥`&font=JetBrains%20Mono&center=true&width=700&height=60&duration=3000&pause=800&color=00FF88&vCenter=true&size=18)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💻+Développeur+Full-Stack+Passionné;🚀+Ingénieur+Logiciel+Créatif;🌍+Basé+à+Dakar,+Sénégal;🔥+Toujours+prêt+pour+de+nouveaux+défis!;⚡+Innovation+et+Excellence&font=Fira%20Code&center=true&width=700&height=60&duration=3500&pause=800&color=gradient&vCenter=true&size=24)
 
 </div>
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a)](https://amethba.netlify.app/)
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/ameth-ba-2920b3253)
-  [![GitHub](https://img.shields.io/badge/GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a)](https://github.com/Bameth)
-  [![Email](https://img.shields.io/badge/EMAIL-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:amethba8826@gmail.com)
+  [![Portfolio](https://custom-icon-badges.demolab.com/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://amethba.netlify.app/)
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameth-ba-2920b3253)
+  [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bameth)
+  [![Email](https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amethba8826@gmail.com)
   
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **`./about_me.sh`**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=200&section=header&text=Développeur%20Full-Stack&fontSize=50&fontColor=fff&animation=twinkling"/>
+</div>
 
-<div align="left">
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> **À propos de moi**
 
-<img align="right" alt="Black Developer Coding" width="420" src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80">
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        
+🎯 **Développeur Full-Stack** passionné par la création de solutions **performantes**, **sécurisées** et **évolutives**
+
+💡 **Mindset** : Curieux, rigoureux, créatif avec un fort intérêt pour l'architecture logicielle
+
+🌍 **Localisation** : Dakar, Sénégal 🇸🇳
+
+📞 **Contact** : +221 78 106 90 49
+
+🚀 **Mission** : Transformer les idées en solutions digitales impactantes
+
+⚡ **Passion** : Open Source, Clean Code, Innovation Technologique
+
+      </td>
+      <td width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> **Stack Technologique**
+
+<div align="center">
+
+### 🔥 **Backend & Architecture**
+<div>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,php,symfony,python&theme=dark" />
+</div>
+
+### 🎨 **Frontend & Mobile**
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,flutter,tailwind,html,css&theme=dark" />
+</div>
+
+### 🗄️ **Bases de Données & DevOps**
+<div>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,linux,ubuntu,docker,git&theme=dark" />
+</div>
+
+### ☁️ **Cloud & Outils**
+<div>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,netlify,vercel&theme=dark" />
+</div>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="900">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> **Projets Phares**
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>🎯 Projet</th>
+    <th>🛠️ Technologies</th>
+    <th>📝 Description</th>
+    <th>🌟 Status</th>
+  </tr>
+  <tr>
+    <td><strong>🏞️ SenTerrain</strong></td>
+    <td><code>C#</code> <code>ASP.NET Core</code> <code>PostgreSQL</code> <code>JWT</code> <code>Wave</code></td>
+    <td>Plateforme de location de terrains avec paiement intégré</td>
+    <td>🚀 Production</td>
+  </tr>
+  <tr>
+    <td><strong>✂️ Gestion Atelier</strong></td>
+    <td><code>C#</code> <code>ASP.NET Core</code> <code>Twilio</code> <code>PostgreSQL</code></td>
+    <td>Solution complète pour ateliers de couture</td>
+    <td>⭐ Featured</td>
+  </tr>
+  <tr>
+    <td><strong>📦 NSA Commands</strong></td>
+    <td><code>Spring Boot</code> <code>Angular</code> <code>PostgreSQL</code> <code>Swagger</code></td>
+    <td>Application de gestion des commandes moderne</td>
+    <td>🔥 Active</td>
+  </tr>
+  <tr>
+    <td><strong>💰 Gestion Dettes</strong></td>
+    <td><code>PHP</code> <code>MySQL</code> <code>TailwindCSS</code> <code>JavaScript</code></td>
+    <td>Système de gestion pour boutiques</td>
+    <td>✅ Completed</td>
+  </tr>
+  <tr>
+    <td><strong>🛒 E-Commerce</strong></td>
+    <td><code>Spring Boot</code> <code>Angular</code> <code>PostgreSQL</code></td>
+    <td>Boutique en ligne complète</td>
+    <td>🎯 Enhanced</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30px" alt="Git"/> **Statistiques GitHub**
+
+<div align="center">
+  
+  <img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bameth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=15"/>
+  <img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bameth&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Bameth&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FFA657&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFA657&sideNums=58A6FF&dates=8B949E&border_radius=15"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bameth&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFA657&area=true&hide_border=true&radius=15"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122044-c5b3a7db-6dc7-4f8b-a36b-ba78bebc1f02.png" width="30"> **Certifications & Compétences**
+
+<div align="center">
+
+| 🎓 **Domaine** | 🏆 **Niveau** | 📊 **Progression** |
+|----------------|---------------|-------------------|
+| **Backend Development** | Expert | ![90%](https://progress-bar.dev/90/?scale=100&title=Progress&width=200&color=58A6FF&suffix=%) |
+| **Frontend Development** | Avancé | ![85%](https://progress-bar.dev/85/?scale=100&title=Progress&width=200&color=1F6FEB&suffix=%) |
+| **Database Design** | Expert | ![92%](https://progress-bar.dev/92/?scale=100&title=Progress&width=200&color=FFA657&suffix=%) |
+| **DevOps & Cloud** | Intermédiaire | ![75%](https://progress-bar.dev/75/?scale=100&title=Progress&width=200&color=F85149&suffix=%) |
+| **Mobile Development** | Avancé | ![80%](https://progress-bar.dev/80/?scale=100&title=Progress&width=200&color=7C3AED&suffix=%) |
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"> **Connectons-nous !**
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/ameth-ba-2920b3253">
+        <img src="https://img.shields.io/badge/-Ameth_BA-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&color=0077B5"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:amethba8826@gmail.com">
+        <img src="https://img.shields.io/badge/-amethba8826@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&color=EA4335"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://amethba.netlify.app/">
+        <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=000000"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Réseau Professionnel</td>
+    <td align="center">Contact Direct</td>
+    <td align="center">Mes Réalisations</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+</div>
+
+## 🎯 **Vision & Objectifs**
+
+<div align="center">
 
 ```javascript
-const developer = {
-    name: "Ameth BA",
-    role: "Full-Stack Developer",
-    location: "Dakar, Senegal 🇸🇳",
-    phone: "+221 78 106 90 49",
-    mindset: ["Curious", "Rigorous", "Creative"],
-    passion: "Building scalable & secure solutions",
-    currentFocus: "Software Architecture & Performance",
-    availableForHire: true
+const amethVision = {
+    mission: "Créer des solutions digitales qui transforment les idées en réalité",
+    values: ["Innovation", "Excellence", "Collaboration", "Impact Social"],
+    goals: {
+        immediate: "Intégrer une équipe tech innovante et dynamique",
+        shortTerm: "Développer des solutions à fort impact utilisateur",
+        longTerm: "Architecte de solutions robustes à grande échelle",
+        continuous: "Contribuer à l'écosystème open-source africain"
+    },
+    philosophy: "Code avec passion, construis avec purpose 🚀"
 };
 
-console.log(`Hello World! I'm ${developer.name} 👋`);
-```
-
-</div>
-
-<br clear="both"/>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **`./tech_stack.json`**
-
-<div align="center">
-
-### 🎯 **`BACKEND_FRAMEWORKS`**
-```bash
-┌─────────────────────────────────────────────────────────────────┐
-│ C# • .NET Core • Java • Spring Boot • PHP • Symfony • Python  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=1a1a1a)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&labelColor=1a1a1a)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=1a1a1a)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1a1a)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white&labelColor=1a1a1a)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
-
-### 🎨 **`FRONTEND_TECHNOLOGIES`**
-```bash
-┌──────────────────────────────────────────────────────────────────┐
-│ JavaScript • TypeScript • Angular • Flutter • TailwindCSS      │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=1a1a1a)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a1a)
-
-### 🗄️ **`DATABASE_&_DEVOPS`**
-```bash
-┌─────────────────────────────────────────────────────────────────┐
-│ PostgreSQL • MySQL • SQL Server • Docker • Linux • Git        │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a)
-![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=1a1a1a)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a1a)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **`./featured_projects.md`**
-
-<div align="center">
-
-```bash
-╔═══════════════════════════════════════════════════════════════════════╗
-║                           🚀 FEATURED PROJECTS                        ║
-╠═══════════════════════════════════════════════════════════════════════╣
-║                                                                       ║
-║  🏞️  SenTerrain          │ C# • ASP.NET • PostgreSQL • JWT • Wave   ║
-║      → Terrain rental platform with integrated payment system        ║
-║                                                                       ║
-║  ✂️  Gestion Atelier     │ C# • ASP.NET • Twilio • PostgreSQL       ║
-║      → Complete solution for tailoring workshops                     ║
-║                                                                       ║
-║  📦  NSA Commands        │ Spring Boot • Angular • PostgreSQL        ║
-║      → Modern command management application                         ║
-║                                                                       ║
-║  💰  Gestion Dettes      │ PHP • MySQL • TailwindCSS • JavaScript    ║
-║      → Debt management system for shops                             ║
-║                                                                       ║
-║  🛒  E-Commerce          │ Spring Boot • Angular • PostgreSQL        ║
-║      → Complete online store solution                               ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> **`./github_stats.py`**
-
-<div align="center">
-
-```python
-def get_github_stats():
-    return {
-        "activity_level": "🔥 High",
-        "favorite_languages": ["C#", "Java", "JavaScript"],
-        "code_philosophy": "Clean, Scalable, Maintainable"
-    }
-```
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bameth&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bameth&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_radius=10"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bameth&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=ffffff&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bameth&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&radius=10"/>
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **`./connect.sh`**
-
-<div align="center">
-
-```bash
-#!/bin/bash
-echo "🌐 Let's connect and build something amazing together!"
-
-SOCIAL_LINKS=(
-    "LinkedIn: https://linkedin.com/in/ameth-ba-2920b3253"
-    "Email: amethba8826@gmail.com"
-    "Portfolio: https://amethba.netlify.app"
-    "Phone: +221 78 106 90 49"
-)
-
-for link in "${SOCIAL_LINKS[@]}"; do
-    echo "  → $link"
-done
-```
-
-[![LinkedIn](https://img.shields.io/badge/-CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/ameth-ba-2920b3253)
-[![Gmail](https://img.shields.io/badge/-SEND_EMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=1a1a1a)](mailto:amethba8826@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-VIEW_PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a)](https://amethba.netlify.app/)
-
-</div>
-
----
-
-## 🎯 **`./goals.config`**
-
-<div align="center">
-
-```typescript
-interface DeveloperGoals {
-    shortTerm: string;
-    longTerm: string;
-    continuous: string;
-    philosophy: string;
-}
-
-const amethGoals: DeveloperGoals = {
-    shortTerm: "Join an innovative and ambitious tech team",
-    longTerm: "Design robust solutions at scale",
-    continuous: "Learn, share and contribute to open-source",
-    philosophy: "Create useful, robust and beautiful solutions 🚀"
-};
-
-export default amethGoals;
+console.log("Ready to build the future! 🌟");
 ```
 
 </div>
@@ -208,32 +238,41 @@ export default amethGoals;
 ---
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd8-b925-7c2287e28e8d.gif" width="900">
+</div>
 
-### 💫 **`"Creating useful, robust and beautiful solutions – serving users and tomorrow."`** 
+## 📈 **Métriques de Performance**
 
-```bash
-┌─────────────────────────────────────────────────────────────────┐
-│  $ whoami                                                       │
-│  > Ameth BA - Full-Stack Developer                             │
-│                                                                 │
-│  $ cat mission.txt                                              │
-│  > Building the future, one line of code at a time 🚀          │
-│                                                                 │
-│  $ status                                                       │
-│  > ✅ Available for new opportunities                           │
-└─────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
 
-![Snake animation](https://github.com/Bameth/Bameth/blob/output/github-contribution-grid-snake.svg)
+[![GitHub followers](https://img.shields.io/github/followers/Bameth?style=for-the-badge&color=58A6FF&labelColor=0D1117)](https://github.com/Bameth)
+[![GitHub stars](https://img.shields.io/github/stars/Bameth?style=for-the-badge&color=FFA657&labelColor=0D1117)](https://github.com/Bameth)
+[![Commits this year](https://badges.pufler.dev/commits/yearly/Bameth?style=for-the-badge&color=1F6FEB&labelColor=0D1117)](https://github.com/Bameth)
 
-<img src="https://komarev.com/ghpvc/?username=Bameth&label=Profile+Views&color=00ff88&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views" />
+</div>
 
-**⭐ `git star` my repositories if you find them useful! ⭐**
+<div align="center">
+
+![Snake animation](https://github.com/Bameth/Bameth/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+
+### 💫 **"Construire l'avenir, une ligne de code à la fois"** 
+
+<img src="https://komarev.com/ghpvc/?username=Bameth&label=Visiteurs&color=58A6FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+
+<br><br>
+
+**🌟 Si mes projets vous inspirent, n'hésitez pas à les star ! 🌟**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=true"/>
 </div>
