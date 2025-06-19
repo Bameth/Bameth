@@ -192,7 +192,6 @@ const amethVision = {
         longTerm: "🏗️ Architecte de solutions robustes à grande échelle",
         continuous: "🌟 Contribuer à l'écosystème open-source africain"
     },
-    philosophy: "Code avec passion, construis avec purpose 🚀"
 };
 
 console.log("✨ Ready to build the future! 🌟");
