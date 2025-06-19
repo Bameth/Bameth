@@ -21,7 +21,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-🎓 **Diplômé en Génie Logiciel** - Institut Supérieur de Management (ISM)
 
 🛠️ **Développeur Full-Stack** passionné par la création de solutions **performantes**, **sécurisées** et **évolutives**
 
