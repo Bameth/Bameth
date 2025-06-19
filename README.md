@@ -267,25 +267,6 @@ graph LR
 
 ---
 
-## 📚 Apprentissage Continu
-
-<div align="center">
-
-### 🎓 **Formation & Veille Technologique**
-
-<img src="https://img.shields.io/badge/🔄-Always%20Learning-success?style=for-the-badge&logo=bookstack&logoColor=white" />
-
-**En cours d'exploration:**
-- 🤖 Intelligence Artificielle & Machine Learning
-- ☁️ Cloud Computing (AWS, Azure)
-- 🐳 Containerisation (Docker, Kubernetes)
-- 🔄 DevOps & CI/CD
-- 📱 Mobile Development avancé
-
-</div>
-
----
-
 
 ## 🚀 Prêt pour le prochain défi ?
 
