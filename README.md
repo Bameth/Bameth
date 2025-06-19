@@ -48,8 +48,8 @@
 
 ⚡ **Passion** : Open Source, Clean Code, Innovation Technologique
 
-      </td>
-    </tr>
+
+    
   </table>
 </div>
 
