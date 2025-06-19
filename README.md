@@ -290,35 +290,6 @@ graph LR
 
 <div align="center">
 
-### 🤝 **Engagement Communautaire**
-
-```
-🌟 Partage de connaissances sur LinkedIn
-💡 Aide aux développeurs juniors
-🔧 Contribution à des projets open source locaux
-📚 Rédaction d'articles techniques
-🎤 Participation à des événements tech au Sénégal
-```
-
-### 🏆 **Reconnaissances**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bameth&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&no-bg=false)](https://github.com/Bameth)
-
-</div>
-
----
-
-## 💬 Testimonials
-
-<div align="center">
-
-> *"Ameth est un développeur exceptionnel qui allie expertise technique et vision stratégique. Ses solutions sont toujours élégantes et performantes."*  
-> **— Client SenTerrain**
-
-> *"Un professionnel rigoureux et créatif. Sa capacité à transformer des idées complexes en applications fonctionnelles est remarquable."*  
-> **— Partenaire Technique**
-
-</div>
 
 ---
 
