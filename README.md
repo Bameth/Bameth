@@ -3,8 +3,7 @@
 <!-- Header élégant avec gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,17&height=200&section=header&text=Ameth%20BA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Développeur%20Full-Stack%20Passionné&descAlignY=55&descAlign=50"/>
 
-<!-- Animation de texte moderne -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=🚀+Full-Stack+Developer;💡+Software+Engineer;🌍+Based+in+Dakar;✨+Building+Great+Solutions" alt="Typing SVG" />
+
 
 <!-- Badges élégants -->
 <p>
