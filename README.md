@@ -48,6 +48,7 @@
 
 ⚡ **Passion** : Open Source, Clean Code, Innovation Technologique
 
+      
   </table>
 </div>
 
@@ -78,9 +79,7 @@
 
 ### ☁️ **Cloud & Outils de Développement**
 <div style="padding: 20px;">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,netlify,vercel,idea,virtualbox&theme=dark" height="50"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/StarUML-FF6B6B?style=for-the-badge&logo=staruml&logoColor=white" height="30"/>
+  <img src="https://skillicons.dev/icons?i=vscode,intellij,postman,figma,netlify,vercel&theme=dark" height="50"/>
 </div>
 
 </div>
@@ -220,17 +219,11 @@ console.log("✨ Ready to build the future! 🌟");
 
 </div>
 
-<div align="center">
-
-![Snake animation](https://github.com/Bameth/Bameth/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 
 <div align="center">
 
-### 💫 **"Construire l'avenir, une ligne de code à la fois"** 
+### 🚀 **"Construire l'avenir, une ligne de code à la fois"** 
 
 <img src="https://komarev.com/ghpvc/?username=Bameth&label=Visiteurs&color=58A6FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
 
