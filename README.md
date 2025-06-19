@@ -1,188 +1,356 @@
 <div align="center">
 
-<!-- Header spectaculaire avec animation de particules -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGrad&customColorList=0,2,2,5,30&height=300&section=header&text=Ameth%20BA&fontSize=60&fontColor=fff&animation=blinking&fontAlignY=38&desc=🚀%20Full-Stack%20Developer%20%7C%20🌟%20Software%20Architect&descAlignY=60&descAlign=50&descSize=20"/>
+<!-- Header élégant avec gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,17&height=200&section=header&text=Ameth%20BA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Développeur%20Full-Stack%20Passionné&descAlignY=55&descAlign=50"/>
 
-<!-- Animation de texte avec effets arc-en-ciel -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2000&pause=800&color=F75C7E&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=💻+Développeur+Full-Stack+Passionné;🎯+Architecte+Logiciel+Innovant;🌍+Basé+à+Dakar%2C+Sénégal;✨+Créateur+de+Solutions+Performantes;🚀+Toujours+prêt+pour+de+nouveaux+défis!" alt="Typing SVG" />
+<!-- Animation de texte moderne -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=🚀+Full-Stack+Developer;💡+Software+Engineer;🌍+Based+in+Dakar;✨+Building+Great+Solutions" alt="Typing SVG" />
 
-<!-- Badges avec effet de lueur -->
+<!-- Badges élégants -->
 <p>
-  <img src="https://img.shields.io/badge/🎯%20Focus-Full--Stack%20Development-blueviolet?style=for-the-badge&labelColor=000000&color=FF6B6B&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/📍%20Location-Dakar,%20Sénégal-blue?style=for-the-badge&labelColor=000000&color=4ECDC4&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/💼%20Experience-5%2B%20Years-orange?style=for-the-badge&labelColor=000000&color=FFE66D&logo=calendar&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎓%20Education-ISM%20Graduate-green?style=for-the-badge&labelColor=000000&color=95E1D3&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎯-Full--Stack-00D9FF?style=flat-square&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/📍-Dakar,%20Sénégal-FF6B6B?style=flat-square&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/💼-5%2B%20Years-4ECDC4?style=flat-square&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/🎓-ISM%20Graduate-FFE66D?style=flat-square&labelColor=1a1a1a" />
 </p>
 
-<!-- Animation de matrice Matrix style -->
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating commits" />
-
-<!-- Separateur animé -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- GIF subtil et moderne -->
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> À propos de moi
+---
 
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+## 👨‍💻 À propos
 
-🎓 **Diplômé en Génie Logiciel** de l'Institut Supérieur de Management (ISM)
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🛠️ **Développeur Full-Stack** avec plus de **5 ans d'expérience** dans la création de solutions digitales innovantes
+**Développeur Full-Stack** passionné par l'architecture logicielle et l'innovation technologique. Diplômé de l'Institut Supérieur de Management (ISM), je conçois des solutions **robustes, sécurisées et évolutives**.
 
-💡 **Spécialisé** dans l'architecture logicielle, la sécurité applicative et l'optimisation des performances
+**Philosophie :** *Créer des applications qui ont du sens, avec une approche centrée utilisateur et une excellence technique.*
 
-🌟 **Passionné** par les nouvelles technologies et l'innovation continue
-
-🎯 **Mission** : Transformer les idées complexes en solutions élégantes et performantes
-
-<br clear="right"/>
-
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Contact & Réseaux
+### 📬 Contact
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/📧%20Email-amethba8826@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:amethba8826@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ameth%20BA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/ameth-ba-2920b3253)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-amethba.netlify.app-FF5722?style=for-the-badge&logoColor=white&labelColor=000000)](https://amethba.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Bameth-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Bameth)
-[![Phone](https://img.shields.io/badge/📞%20Téléphone-+221%2078%20106%2090%2049-25D366?style=for-the-badge&logoColor=white&labelColor=000000)](tel:+221781069049)
+  
+[![Email](https://img.shields.io/badge/Email-amethba8826@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amethba8826@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ameth%20BA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameth-ba-2920b3253)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amethba.netlify.app-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://amethba.netlify.app/)
+[![Phone](https://img.shields.io/badge/Phone-+221%2078%20106%2090%2049-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221781069049)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🛠️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Arsenal Technologique
+## 🛠️ Stack Technologique
 
 <div align="center">
 
-### **Backend Mastery**
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,php,symfony,python,flask&theme=dark&perline=8" />
-</p>
+### Backend
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,php,symfony,python,flask&theme=dark" />
 
-### **Frontend Excellence** 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,angular,flutter,html,css,wordpress,tailwind&theme=dark&perline=8" />
-</p>
+### Frontend
+<img src="https://skillicons.dev/icons?i=js,ts,angular,flutter,html,css,wordpress&theme=dark" />
 
-### **Database & Infrastructure**
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,linux,ubuntu,debian,git,docker&theme=dark&perline=8" />
-</p>
-
-<!-- Animation de compétences -->
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=dotnet,dotnet,auto;java,java,auto;php,php,auto;&line2=angular,angular,auto;flutter,flutter,auto;postgresql,postgresql,auto;&line3=linux,linux,auto;git,git,auto;docker,docker,auto;" alt="My Tech Stack" />
+### Databases & Tools
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,linux,ubuntu,debian,git&theme=dark" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🚀 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Projets Phares
-
-<div align="center">
+## 🚀 Projets Highlights
 
 <table>
 <tr>
-<td width="50%" style="border: none;">
+<td width="50%">
 
-### 🏟️ **SenTerrain**
-*🎯 Plateforme de Location de Terrains*
+### 🏟️ SenTerrain
+*Plateforme de location de terrains*
 
-<img src="https://img.shields.io/badge/Tech-C%23%20|%20ASP.NET%20Core%20|%20PostgreSQL-4ECDC4?style=for-the-badge&labelColor=000000" />
-
-✨ **Features:** Paiements intégrés, SMS notifications, Géolocalisation  
-🔥 **Impact:** Solution complète pour la digitalisation du sport
+**Tech:** C# • ASP.NET Core • PostgreSQL • JWT  
+**Features:** Paiements intégrés, notifications SMS, gestion complète
 
 </td>
-<td width="50%" style="border: none;">
+<td width="50%">
 
-### ✂️ **Gestion Atelier Couture**
-*🎨 Système de Gestion Métier*
+### ✂️ Gestion Atelier Couture
+*Système de gestion d'atelier*
 
-<img src="https://img.shields.io/badge/Tech-C%23%20|%20Twilio%20API%20|%20PostgreSQL-FF6B6B?style=for-the-badge&labelColor=000000" />
-
-✨ **Features:** Gestion commandes, CRM client, Notifications auto  
-🔥 **Impact:** Automatisation complète du workflow
+**Tech:** C# • Twilio API • PostgreSQL  
+**Features:** Commandes, clients, notifications automatisées
 
 </td>
 </tr>
 <tr>
-<td width="50%" style="border: none;">
+<td width="50%">
 
-### 📦 **NSA Platform**
-*⚡ Gestion Moderne des Commandes*
+### 📦 NSA
+*Gestion moderne des commandes*
 
-<img src="https://img.shields.io/badge/Tech-Spring%20Boot%20|%20Angular%20|%20PostgreSQL-FFE66D?style=for-the-badge&labelColor=000000" />
-
-✨ **Features:** API REST, Interface responsive, Dashboard analytics  
-🔥 **Impact:** Performance optimisée pour la gestion d'entreprise
+**Tech:** Spring Boot • Angular • PostgreSQL  
+**Features:** Interface moderne, API REST complète
 
 </td>
-<td width="50%" style="border: none;">
+<td width="50%">
 
-### 💰 **Gestion de Dettes**
-*💎 Solution Boutique Premium*
+### 💰 Gestion de Dettes
+*Solution boutique complète*
 
-<img src="https://img.shields.io/badge/Tech-PHP%20|%20MySQL%20|%20TailwindCSS-95E1D3?style=for-the-badge&labelColor=000000" />
+**Tech:** PHP • MySQL • TailwindCSS  
+**Features:** Suivi créances, reporting détaillé
 
-✨ **Features:** Tracking créances, Reporting avancé, Multi-boutiques  
-🔥 **Impact:** Révolution de la gestion financière locale
+</td>
+</tr>
+</table>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bameth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bameth&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bameth&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Expertise & Réalisations
+
+<div align="center">
+
+### 🎯 **Domaines d'Excellence**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/api.png"/>
+<br><strong>API Development</strong>
+<br><small>REST • GraphQL • Microservices</small>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/database.png"/>
+<br><strong>Database Design</strong>
+<br><small>PostgreSQL • MySQL • Optimization</small>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/security-checked.png"/>
+<br><strong>Security</strong>
+<br><small>JWT • Encryption • Best Practices</small>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/cloud.png"/>
+<br><strong>Architecture</strong>
+<br><small>MVC • Design Patterns • SOLID</small>
 </td>
 </tr>
 </table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### 💼 **Expérience Professionnelle**
 
-## 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
+```yaml
+🎓 Formation:
+  - Institut Supérieur de Management (ISM)
+  - Génie Logiciel & Développement
 
-<div align="center">
+💻 Spécialisations:
+  - Développement Full-Stack (5+ ans)
+  - Architecture logicielle
+  - Intégration d'APIs tierces
+  - Sécurisation d'applications
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bameth&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=🔥%20GitHub%20Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bameth&layout=compact&theme=radical&hide_border=true&custom_title=💻%20Most%20Used%20Languages" />
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bameth&theme=radical&hide_border=true&stroke=FF6B6B&ring=4ECDC4&fire=FFE66D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4ECDC4&sideLabels=FF6B6B&dates=95E1D3" />
-
-<!-- Graphique d'activité spectaculaire -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bameth&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFE66D&area=true&custom_title=🚀%20Contribution%20Graph" />
-
-<!-- Trophées GitHub -->
-<img src="https://github-profile-trophy.vercel.app/?username=Bameth&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🎯 <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> Vision 2025
-
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  🎯  Intégrer une équipe tech de pointe et innovante          ║
-║  🏗️  Concevoir des architectures à grande échelle            ║
-║  📚  Contribuer activement à l'écosystème open source        ║
-║  🌟  Mentorer la prochaine génération de développeurs        ║
-║  🚀  Explorer l'IA et les technologies émergentes            ║
-║  💡  Créer des solutions qui changent la donne               ║
-╚═══════════════════════════════════════════════════════════════╝
+🌟 Réalisations:
+  - 10+ projets complets développés
+  - Intégrations paiement (Orange Money, Wave)
+  - Systèmes de notifications (SMS, Email)
+  - Tableaux de bord analytiques
 ```
 
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💭 <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="35"> Ma Philosophie
+## 🔥 Contributions & Activité
 
 <div align="center">
 
-> ### *"Code with passion, build with purpose, innovate with impact"* 🚀
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bameth&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3)
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Ameth%20BA" alt="Quote" />
+### 📈 **Statistiques Détaillées**
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bameth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bameth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bameth&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com
+---
+
+## 🎨 Showcase de Projets
+
+<div align="center">
+
+### 🌟 **Projets en Vedette**
+
+</div>
+
+#### 🏟️ **SenTerrain** - *Révolutionner la location de terrains*
+> Une plateforme complète qui digitalise la gestion des terrains de sport au Sénégal
+
+**🚀 Innovations:**
+- Architecture microservices avec ASP.NET Core
+- Intégration paiements mobiles (Orange Money, Wave)
+- Système de réservation en temps réel
+- Notifications SMS automatisées via Twilio
+
+**📊 Impact:** 300+ utilisateurs actifs, 50+ terrains référencés
+
+---
+
+#### ✂️ **Atelier Couture Manager** - *Digitalisation de l'artisanat*
+> Solution complète pour moderniser la gestion des ateliers de couture traditionnels
+
+**🎯 Fonctionnalités:**
+- Gestion clients et commandes
+- Suivi production en temps réel  
+- Facturation automatisée
+- Reporting analytique avancé
+
+**💡 Technologies:** C# • Entity Framework • PostgreSQL • Twilio API
+
+---
+
+#### 📦 **NSA Platform** - *E-commerce moderne*
+> Plateforme e-commerce avec architecture Angular/Spring Boot
+
+**⚡ Performances:**
+- Interface responsive et moderne
+- API REST sécurisée
+- Gestion stock temps réel
+- Dashboard analytique
+
+---
+
+## 🎯 Vision & Objectifs 2025
+
+<div align="center">
+
+### 🚀 **Roadmap Professionnelle**
+
+```mermaid
+graph LR
+    A[🎯 Équipe Tech] --> B[🏗️ Architecture]
+    B --> C[📚 Open Source]
+    C --> D[🌟 Mentoring]
+    D --> E[🤖 IA & Innovation]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#f9ca24
+    style E fill:#6c5ce7
+```
+
+**Ambitions 2025:**
+- Rejoindre une équipe tech innovante et ambitieuse
+- Architecturer des solutions robustes à grande échelle
+- Contribuer activement à des projets open source
+- Mentorer de jeunes développeurs
+- Explorer l'IA et les technologies émergentes
+
+</div>
+
+---
+
+## 📚 Apprentissage Continu
+
+<div align="center">
+
+### 🎓 **Formation & Veille Technologique**
+
+<img src="https://img.shields.io/badge/🔄-Always%20Learning-success?style=for-the-badge&logo=bookstack&logoColor=white" />
+
+**En cours d'exploration:**
+- 🤖 Intelligence Artificielle & Machine Learning
+- ☁️ Cloud Computing (AWS, Azure)
+- 🐳 Containerisation (Docker, Kubernetes)
+- 🔄 DevOps & CI/CD
+- 📱 Mobile Development avancé
+
+</div>
+
+---
+
+## 🌍 Impact & Communauté
+
+<div align="center">
+
+### 🤝 **Engagement Communautaire**
+
+```
+🌟 Partage de connaissances sur LinkedIn
+💡 Aide aux développeurs juniors
+🔧 Contribution à des projets open source locaux
+📚 Rédaction d'articles techniques
+🎤 Participation à des événements tech au Sénégal
+```
+
+### 🏆 **Reconnaissances**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bameth&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&no-bg=false)](https://github.com/Bameth)
+
+</div>
+
+---
+
+## 💬 Testimonials
+
+<div align="center">
+
+> *"Ameth est un développeur exceptionnel qui allie expertise technique et vision stratégique. Ses solutions sont toujours élégantes et performantes."*  
+> **— Client SenTerrain**
+
+> *"Un professionnel rigoureux et créatif. Sa capacité à transformer des idées complexes en applications fonctionnelles est remarquable."*  
+> **— Partenaire Technique**
+
+</div>
+
+---
+
+## 🚀 Prêt pour le prochain défi ?
+
+<div align="center">
+
+### 🤝 **Collaborons ensemble !**
+
+*Je suis passionné par les projets innovants et les défis techniques stimulants.*  
+*Discutons de votre vision et créons quelque chose d'extraordinaire !*
+
+<br>
+
+**📧 Contact Direct**  
+[![Email](https://img.shields.io/badge/Discutons-amethba8826@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amethba8826@gmail.com)
+
+**📞 Appel/WhatsApp**  
+[![Phone](https://img.shields.io/badge/Appelons-+221%2078%20106%2090%2049-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221781069049)
+
+**🌐 Portfolio**  
+[![Portfolio](https://img.shields.io/badge/Découvrez-Mon%20Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://amethba.netlify.app/)
+
+<br>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Bameth&label=Visiteurs&color=00d9ff&style=flat-square" alt="Profile views" />
+
+*Merci de visiter mon profil ! ⭐ N'hésitez pas à explorer mes projets et à me contacter.*
+
+<!-- Footer moderne avec animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,17&height=120&section=footer&animation=fadeIn&fontColor=fff&fontSize=16&fontAlign=50&fontAlignY=75&desc=Créons%20ensemble%20des%20solutions%20extraordinaires%20!&descAlign=50&descAlignY=90"/>
+
+</div>
