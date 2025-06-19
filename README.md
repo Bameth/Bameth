@@ -286,12 +286,6 @@ graph LR
 
 ---
 
-## 🌍 Impact & Communauté
-
-<div align="center">
-
-
----
 
 ## 🚀 Prêt pour le prochain défi ?
 
