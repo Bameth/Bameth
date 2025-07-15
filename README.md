@@ -9,8 +9,8 @@
 <p>
   <img src="https://img.shields.io/badge/🎯-Full--Stack-00D9FF?style=flat-square&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/📍-Dakar,%20Sénégal-FF6B6B?style=flat-square&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/💼-5%2B%20Years-4ECDC4?style=flat-square&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/🎓-ISM%20Graduate-FFE66D?style=flat-square&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/💼-3%2B%20Years-4ECDC4?style=flat-square&labelColor=1a1a1a" />
+<!--   <img src="https://img.shields.io/badge/🎓-ISM%20Graduate-FFE66D?style=flat-square&labelColor=1a1a1a" /> -->
 </p>
 
 <!-- GIF subtil et moderne -->
