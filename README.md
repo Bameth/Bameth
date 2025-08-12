@@ -24,7 +24,7 @@
 
 <img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-**Développeur Full-Stack** passionné par l'architecture logicielle et l'innovation technologique. Diplômé de l'Institut Supérieur de Management (ISM), je conçois des solutions **robustes, sécurisées et évolutives**.
+**Développeur Full-Stack** passionné par l'architecture logicielle et l'innovation technologique. Je conçois des solutions **robustes, sécurisées et évolutives**.
 
 **Philosophie :** *Créer des applications qui ont du sens, avec une approche centrée utilisateur et une excellence technique.*
 
