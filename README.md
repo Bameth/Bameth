@@ -26,7 +26,6 @@
 
 **Développeur Full-Stack** passionné par l'architecture logicielle et l'innovation technologique. Je conçois des solutions **robustes, sécurisées et évolutives**.
 
-**Philosophie :** *Créer des applications qui ont du sens, avec une approche centrée utilisateur et une excellence technique.*
 
 ### 📬 Contact
 
@@ -64,8 +63,8 @@
 <tr>
 <td width="50%">
 
-### 🏟️ SenTerrain
-*Plateforme de location de terrains*
+### 🏟️ SunuTerrain
+*Plateforme de reservations de terrains*
 
 **Tech:** C# • ASP.NET Core • PostgreSQL • JWT  
 **Features:** Paiements intégrés, notifications SMS, gestion complète
