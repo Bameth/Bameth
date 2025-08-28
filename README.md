@@ -172,16 +172,6 @@
 
 ---
 
-### 📈 **Statistiques Détaillées**
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bameth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bameth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bameth&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🎨 Showcase de Projets
 
@@ -191,11 +181,11 @@
 
 </div>
 
-#### 🏟️ **SenTerrain** - *Révolutionner la location de terrains*
+#### 🏟️ **SunuTerrain** - *Révolutionner la reservation de terrains*
 > Une plateforme complète qui digitalise la gestion des terrains de sport au Sénégal
 
 **🚀 Innovations:**
-- Architecture microservices avec ASP.NET Core
+- Architecture avec ASP.NET Core
 - Intégration paiements mobiles (Orange Money, Wave)
 - Système de réservation en temps réel
 - Notifications SMS automatisées via Twilio
