@@ -172,12 +172,6 @@
 
 ---
 
-## 🔥 Contributions & Activité
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bameth&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3)
-
 ### 📈 **Statistiques Détaillées**
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bameth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
