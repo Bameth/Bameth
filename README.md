@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header ultra dynamique avec typographie moderne -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=AMETH%20BA&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=🚀%20Full-Stack%20Developer%20|%20Digital%20Solutions%20Architect%20🎯&descAlignY=60&descAlign=50&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=AMETH%20BA&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=🚀%20Full-Stack%20Developer%20|%20Génie%20Logiciel%20%20🎯&descAlignY=60&descAlign=50&descSize=20"/>
 
 <!-- Badges premium avec animations -->
 <p>
