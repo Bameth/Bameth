@@ -1,42 +1,34 @@
 <div align="center">
 
-<!-- Header élégant avec gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,17&height=200&section=header&text=Ameth%20BA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Développeur%20Full-Stack%20Passionné&descAlignY=55&descAlign=50"/>
+<!-- Header élégant avec effet gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,17,19&height=200&section=header&text=Ameth%20BA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Développeur%20Full-Stack%20|%20Créateur%20de%20solutions%20digitales&descAlignY=55&descAlign=50"/>
 
-
-
-<!-- Badges élégants -->
+<!-- Badges -->
 <p>
   <img src="https://img.shields.io/badge/🎯-Full--Stack-00D9FF?style=flat-square&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/📍-Dakar,%20Sénégal-FF6B6B?style=flat-square&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/💼-3%2B%20Years-4ECDC4?style=flat-square&labelColor=1a1a1a" />
-<!--   <img src="https://img.shields.io/badge/🎓-ISM%20Graduate-FFE66D?style=flat-square&labelColor=1a1a1a" /> -->
+  <img src="https://img.shields.io/badge/💼-Projets%20Réels%20&%20Prod-4ECDC4?style=flat-square&labelColor=1a1a1a" />
 </p>
 
-<!-- GIF subtil et moderne -->
+<!-- Animation Snake -->
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 
 </div>
 
 ---
 
-## 👨‍💻 À propos
+## 👨‍💻 À propos de moi
 
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="220" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-**Développeur Full-Stack** passionné par l'architecture logicielle et l'innovation technologique. Je conçois des solutions **robustes, sécurisées et évolutives**.
+**Développeur Full-Stack** avec une passion pour :  
+- l’**architecture logicielle** robuste  
+- les **solutions évolutives** adaptées aux besoins réels  
+- l’**innovation digitale** (paiement mobile, SMS, IA, etc.)  
 
-
-### 📬 Contact
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-amethba8826@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amethba8826@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ameth%20BA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameth-ba-2920b3253)
-[![Portfolio](https://img.shields.io/badge/Portfolio-amethba.netlify.app-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://amethba.netlify.app/)
-[![Phone](https://img.shields.io/badge/Phone-+221%2078%20106%2090%2049-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221781069049)
-
-</div>
+🎓 Diplômé en Génie Logiciel à l’ISM Dakar  
+🚀 Expérience pratique : plusieurs projets **en production** (paiement, réservation, gestion)  
+⚡ Objectif : créer des solutions qui apportent un **impact concret** au Sénégal et ailleurs  
 
 ---
 
@@ -50,33 +42,37 @@
 ### Frontend
 <img src="https://skillicons.dev/icons?i=js,ts,angular,flutter,html,css,wordpress&theme=dark" />
 
-### Databases & Tools
+### Bases de données & Outils
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,linux,ubuntu,debian,git&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 Projets Highlights
+## 🚀 Projets Réels
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🏟️ SunuTerrain
-*Plateforme de reservations de terrains*
+Plateforme de **réservation de terrains sportifs**  
+✅ Paiements mobiles (Wave, Orange Money)  
+✅ Notifications SMS en temps réel  
+✅ Tableau de bord gestionnaires  
 
-**Tech:** C# • ASP.NET Core • PostgreSQL • JWT  
-**Features:** Paiements intégrés, notifications SMS, gestion complète
+**Stack :** C#, ASP.NET Core, PostgreSQL
 
 </td>
 <td width="50%">
 
-### ✂️ Gestion Atelier Couture
-*Système de gestion d'atelier*
+### ✂️ Atelier Couture Manager
+Système pour **digitaliser les ateliers de couture**  
+✅ Gestion clients et commandes  
+✅ Notifications automatisées  
+✅ Facturation et reporting  
 
-**Tech:** C# • Twilio API • PostgreSQL  
-**Features:** Commandes, clients, notifications automatisées
+**Stack :** C#, PostgreSQL, Twilio API
 
 </td>
 </tr>
@@ -84,19 +80,23 @@
 <td width="50%">
 
 ### 📦 NSA
-*Gestion moderne des commandes*
+Application de **gestion des commandes**  
+✅ API REST moderne  
+✅ Interface Angular responsive  
+✅ Gestion des stocks  
 
-**Tech:** Spring Boot • Angular • PostgreSQL  
-**Features:** Interface moderne, API REST complète
+**Stack :** Spring Boot, Angular, PostgreSQL
 
 </td>
 <td width="50%">
 
 ### 💰 Gestion de Dettes
-*Solution boutique complète*
+Solution pour **petites boutiques locales**  
+✅ Suivi des créances  
+✅ Rapports clairs  
+✅ Interface simple  
 
-**Tech:** PHP • MySQL • TailwindCSS  
-**Features:** Suivi créances, reporting détaillé
+**Stack :** PHP, MySQL, TailwindCSS
 
 </td>
 </tr>
@@ -104,7 +104,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Statistiques GitHub
 
 <div align="center">
 
@@ -117,168 +117,57 @@
 
 ---
 
-## 🏆 Expertise & Réalisations
+## 🏆 Domaines d’Expertise
 
 <div align="center">
-
-### 🎯 **Domaines d'Excellence**
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/api.png"/>
-<br><strong>API Development</strong>
-<br><small>REST • GraphQL • Microservices</small>
+<img src="https://img.icons8.com/fluency/48/api.png"/>
+<br><strong>API & Intégrations</strong>
+<br><small>REST • Microservices • Mobile Money</small>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/database.png"/>
-<br><strong>Database Design</strong>
-<br><small>PostgreSQL • MySQL • Optimization</small>
+<img src="https://img.icons8.com/fluency/48/database.png"/>
+<br><strong>Bases de données</strong>
+<br><small>PostgreSQL • MySQL • Optimisation</small>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/security-checked.png"/>
-<br><strong>Security</strong>
-<br><small>JWT • Encryption • Best Practices</small>
+<img src="https://img.icons8.com/fluency/48/security-checked.png"/>
+<br><strong>Sécurité</strong>
+<br><small>JWT • Auth • Bonnes pratiques</small>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/cloud.png"/>
+<img src="https://img.icons8.com/fluency/48/cloud.png"/>
 <br><strong>Architecture</strong>
-<br><small>MVC • Design Patterns • SOLID</small>
+<br><small>MVC • Design Patterns • DevOps</small>
 </td>
 </tr>
 </table>
 
 </div>
 
-### 💼 **Expérience Professionnelle**
-
-```yaml
-🎓 Formation:
-  - Institut Supérieur de Management (ISM)
-  - Génie Logiciel & Développement
-
-💻 Spécialisations:
-  - Développement Full-Stack (5+ ans)
-  - Architecture logicielle
-  - Intégration d'APIs tierces
-  - Sécurisation d'applications
-
-🌟 Réalisations:
-  - 10+ projets complets développés
-  - Intégrations paiement (Orange Money, Wave)
-  - Systèmes de notifications (SMS, Email)
-  - Tableaux de bord analytiques
-```
-
 ---
 
-
-## 🎨 Showcase de Projets
+## 📬 Contact
 
 <div align="center">
 
-### 🌟 **Projets en Vedette**
-
-</div>
-
-#### 🏟️ **SunuTerrain** - *Révolutionner la reservation de terrains*
-> Une plateforme complète qui digitalise la gestion des terrains de sport au Sénégal
-
-**🚀 Innovations:**
-- Architecture avec ASP.NET Core
-- Intégration paiements mobiles (Orange Money, Wave)
-- Système de réservation en temps réel
-- Notifications SMS automatisées via Twilio
-
-**📊 Impact:** 300+ utilisateurs actifs, 50+ terrains référencés
-
----
-
-#### ✂️ **Atelier Couture Manager** - *Digitalisation de l'artisanat*
-> Solution complète pour moderniser la gestion des ateliers de couture traditionnels
-
-**🎯 Fonctionnalités:**
-- Gestion clients et commandes
-- Suivi production en temps réel  
-- Facturation automatisée
-- Reporting analytique avancé
-
-**💡 Technologies:** C# • Entity Framework • PostgreSQL • Twilio API
-
----
-
-#### 📦 **NSA Platform** - *E-commerce moderne*
-> Plateforme e-commerce avec architecture Angular/Spring Boot
-
-**⚡ Performances:**
-- Interface responsive et moderne
-- API REST sécurisée
-- Gestion stock temps réel
-- Dashboard analytique
-
----
-
-## 🎯 Vision & Objectifs 2025
-
-<div align="center">
-
-### 🚀 **Roadmap Professionnelle**
-
-```mermaid
-graph LR
-    A[🎯 Équipe Tech] --> B[🏗️ Architecture]
-    B --> C[📚 Open Source]
-    C --> D[🌟 Mentoring]
-    D --> E[🤖 IA & Innovation]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#f9ca24
-    style E fill:#6c5ce7
-```
-
-**Ambitions 2025:**
-- Rejoindre une équipe tech innovante et ambitieuse
-- Architecturer des solutions robustes à grande échelle
-- Contribuer activement à des projets open source
-- Mentorer de jeunes développeurs
-- Explorer l'IA et les technologies émergentes
+[![Email](https://img.shields.io/badge/Email-amethba8826@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amethba8826@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ameth%20BA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameth-ba-2920b3253)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amethba.netlify.app-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://amethba.netlify.app/)
+[![Phone](https://img.shields.io/badge/Phone-+221%2078%20106%2090%2049-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221781069049)
 
 </div>
 
 ---
 
-
-## 🚀 Prêt pour le prochain défi ?
-
 <div align="center">
-
-### 🤝 **Collaborons ensemble !**
-
-*Je suis passionné par les projets innovants et les défis techniques stimulants.*  
-*Discutons de votre vision et créons quelque chose d'extraordinaire !*
-
-<br>
-
-**📧 Contact Direct**  
-[![Email](https://img.shields.io/badge/Discutons-amethba8826@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amethba8826@gmail.com)
-
-**📞 Appel/WhatsApp**  
-[![Phone](https://img.shields.io/badge/Appelons-+221%2078%20106%2090%2049-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221781069049)
-
-**🌐 Portfolio**  
-[![Portfolio](https://img.shields.io/badge/Découvrez-Mon%20Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://amethba.netlify.app/)
-
-<br>
-
----
 
 <img src="https://komarev.com/ghpvc/?username=Bameth&label=Visiteurs&color=00d9ff&style=flat-square" alt="Profile views" />
 
-*Merci de visiter mon profil ! ⭐ N'hésitez pas à explorer mes projets et à me contacter.*
-
-<!-- Footer moderne avec animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,17&height=120&section=footer&animation=fadeIn&fontColor=fff&fontSize=16&fontAlign=50&fontAlignY=75&desc=Créons%20ensemble%20des%20solutions%20extraordinaires%20!&descAlign=50&descAlignY=90"/>
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,17,19&height=120&section=footer&animation=fadeIn&fontColor=fff&fontSize=16&fontAlign=50&fontAlignY=75&desc=✨%20Construisons%20ensemble%20des%20solutions%20qui%20ont%20un%20impact%20!%20✨&descAlign=50&descAlignY=90"/>
 
 </div>
