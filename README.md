@@ -6,7 +6,7 @@
 <!-- Badges -->
 <p>
   <img src="https://img.shields.io/badge/🎯-Full--Stack-00D9FF?style=flat-square&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/📍-Dakar,%20Sénégal-FF6B6B?style=flat-square&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/📍-Montréal,%20Canada-FF6B6B?style=flat-square&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/💼-Projets%20Réels%20&%20Prod-4ECDC4?style=flat-square&labelColor=1a1a1a" />
 </p>
 
