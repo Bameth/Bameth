@@ -1,173 +1,90 @@
-<div align="center">
+<!-- README de profil GitHub : à placer dans le dépôt Bameth/Bameth -->
 
-<!-- Header élégant avec effet gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,17,19&height=200&section=header&text=Ameth%20BA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Développeur%20Full-Stack%20|%20Créateur%20de%20solutions%20digitales&descAlignY=55&descAlign=50"/>
+# Ameth Ba
 
-<!-- Badges -->
-<p>
-  <img src="https://img.shields.io/badge/🎯-Full--Stack-00D9FF?style=flat-square&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/📍-Montréal,%20Canada-FF6B6B?style=flat-square&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/💼-Projets%20Réels%20&%20Prod-4ECDC4?style=flat-square&labelColor=1a1a1a" />
-</p>
+**Développeur full-stack — Dakar ⇄ Montréal.**
+J'écris du code qui part en production : des terrains réservés et payés par Wave, les statistiques des Lions, des outils pour des boutiques de quartier. Du schéma SQL jusqu'au dernier pixel.
 
-<!-- Animation Snake -->
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+```ts
+const ameth = {
+  rôle: "Développeur Full-Stack",
+  base: ["Dakar", "Montréal"],
+  enProd: ["gogainde.sn", "sunuterrain.com"],
+  études: "Maîtrise en génie logiciel — UQAM",
+  disponible: true,
+};
 
-</div>
-
----
-
-## 👨‍💻 À propos de moi
-
-<img align="right" alt="Coding" width="220" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-**Développeur Full-Stack** avec une passion pour :  
-- l’**architecture logicielle** robuste  
-- les **solutions évolutives** adaptées aux besoins réels  
-- l’**innovation digitale** (paiement mobile, SMS, IA, etc.)  
-
-🎓 Diplômé en Génie Logiciel à l’ISM Dakar  
-🚀 Expérience pratique : plusieurs projets **en production** (paiement, réservation, gestion)  
-⚡ Objectif : créer des solutions qui apportent un **impact concret** au Sénégal et ailleurs  
+ameth.collaborer(toi);
+```
 
 ---
 
-## 🛠️ Stack Technologique
+## En production
 
-<div align="center">
+| Projet | Ce que ça fait | Stack |
+|---|---|---|
+| **[GoGainde](https://gogainde.sn/)** | Matchs des Lions, profils et statistiques des joueurs, historique des transferts, quiz et pronostics. | Angular · Spring Boot · Redis · PostgreSQL · Docker |
+| **[SunuTerrain](https://sunuterrain.com/)** | Trouver et réserver un terrain à Dakar, payer via Wave ou Orange Money, confirmation par SMS. Déployé sur VPS. | ASP.NET Core · Next.js · Flutter · PostgreSQL · Redis · Nginx · Cloudflare |
 
-### Backend
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,php,symfony,python,flask&theme=dark" />
+## Autres projets
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=js,ts,angular,flutter,html,css,wordpress&theme=dark" />
-
-### Bases de données & Outils
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,linux,ubuntu,debian,git&theme=dark" />
-
-</div>
-
----
-
-## 🚀 Projets Réels
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏟️ SunuTerrain
-Plateforme de **réservation de terrains sportifs**  
-✅ Paiements mobiles (Wave, Orange Money)  
-✅ Notifications SMS en temps réel  
-✅ Tableau de bord gestionnaires  
-
-**Stack :** C#, ASP.NET Core, PostgreSQL
-
-</td>
-<td width="50%">
-
-### ✂️ Atelier Couture Manager
-Système pour **digitaliser les ateliers de couture**  
-✅ Gestion clients et commandes  
-✅ Notifications automatisées  
-✅ Facturation et reporting  
-
-**Stack :** C#, PostgreSQL, Twilio API
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📦 NSA
-Application de **gestion des commandes**  
-✅ API REST moderne  
-✅ Interface Angular responsive  
-✅ Gestion des stocks  
-
-**Stack :** Spring Boot, Angular, PostgreSQL
-
-</td>
-<td width="50%">
-
-### 💰 Gestion de Dettes
-Solution pour **petites boutiques locales**  
-✅ Suivi des créances  
-✅ Rapports clairs  
-✅ Interface simple  
-
-**Stack :** PHP, MySQL, TailwindCSS
-
-</td>
-</tr>
-</table>
+| Projet | En une ligne | Stack |
+|---|---|---|
+| **NSA** | Commandes, stocks, livraisons et paiements, avec rapports financiers et trois rôles. | ASP.NET MVC · Entity Framework · PostgreSQL |
+| **Cahier de dettes** | Le cahier de dettes d'une boutique, passé au numérique — Twig puis JavaScript/Ajax. | Symfony · PostgreSQL |
+| **Atelier Couture** | Un atelier piloté de l'approvisionnement à la vente. PHP natif, sans framework. | PHP · MySQL |
+| **Dettes Desktop** | Un même problème, quatre persistances : mémoire, JDBC, JPA/Hibernate, JavaFX. | Java · Hibernate · JavaFX |
 
 ---
 
-## 📊 Statistiques GitHub
+## Stack actuelle
 
-<div align="center">
+```yaml
+client:    [Angular, Next.js, Flutter]
+edge:      [Cloudflare, Nginx]
+api:       [Spring Boot, ASP.NET Core]
+données:   [PostgreSQL, Redis]
+services:  [Wave, Orange Money, Twilio, Cloudinary]
+infra:     [Docker, Git]
+langages:  [Java, C#, TypeScript, Dart, SQL]
+```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bameth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bameth&layout=compact&theme=tokyonight&hide_border=true" />
+## Ce que je ne fais plus
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bameth&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Domaines d’Expertise
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/api.png"/>
-<br><strong>API & Intégrations</strong>
-<br><small>REST • Microservices • Mobile Money</small>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/database.png"/>
-<br><strong>Bases de données</strong>
-<br><small>PostgreSQL • MySQL • Optimisation</small>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/security-checked.png"/>
-<br><strong>Sécurité</strong>
-<br><small>JWT • Auth • Bonnes pratiques</small>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/cloud.png"/>
-<br><strong>Architecture</strong>
-<br><small>MVC • Design Patterns • DevOps</small>
-</td>
-</tr>
-</table>
-
-</div>
+```diff
+$ git diff avant..maintenant -- stack
+@@ -1,11 +0,0 @@ je n'y touche plus. basta.
+- PHP
+- Symfony / Twig
+- MySQL
+- JavaFX
+- Hibernate / JDBC
+- ASP.NET MVC
+- Python
+- SQL Server
+- Bootstrap
+- WordPress
++ la stack au-dessus ↑
+```
 
 ---
 
-## 📬 Contact
+## Parcours
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-amethba8826@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amethba8826@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ameth%20BA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameth-ba-2920b3253)
-[![Portfolio](https://img.shields.io/badge/Portfolio-amethba.netlify.app-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://amethba.netlify.app/)
-[![Phone](https://img.shields.io/badge/Phone-+221%2078%20106%2090%2049-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221781069049)
-
-</div>
+```text
+* a3f9c1e (HEAD -> montréal)  feat:    Maîtrise en génie logiciel — UQAM            2026 →
+* 7be21d4                      work:    Développeur Full-Stack — Accel Tech          sept.–déc. 2025
+* e4d0a77 (tag: licence)       release: Licence en génie logiciel — ISM, Dakar       2022–2025
+* 19c6b02                      chore:   Baccalauréat — Collège Notre-Dame du Liban   2019–2022
+* 0000001 (origin/dakar)       init:    premier commit
+```
 
 ---
 
-<div align="center">
+## Contact
 
-<img src="https://komarev.com/ghpvc/?username=Bameth&label=Visiteurs&color=00d9ff&style=flat-square" alt="Profile views" />
+- **Portfolio** — <!-- remplace par l'URL du portfolio une fois en ligne --> _bientôt en ligne_
+- **LinkedIn** — [ameth-ba](https://www.linkedin.com/in/ameth-ba-2920b3253/)
+- **Email** — amethba8826@gmail.com
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,17,19&height=120&section=footer&animation=fadeIn&fontColor=fff&fontSize=16&fontAlign=50&fontAlignY=75&desc=✨%20Construisons%20ensemble%20des%20solutions%20qui%20ont%20un%20impact%20!%20✨&descAlign=50&descAlignY=90"/>
-
-</div>
+<sub>Stage, mission, poste ou simple question technique : écris-moi.</sub>
