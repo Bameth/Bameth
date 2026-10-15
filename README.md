@@ -92,4 +92,3 @@
 <br>
 
 <a href="mailto:amethba8826@gmail.com"><img src="assets/footer.svg" width="100%" alt="Un projet, une question ? amethba8826@gmail.com — Jërëjëf, merci de votre visite."></a>
-
